@@ -2,7 +2,7 @@
   "name": "d3-geo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://qdphung19.github.io/data-viz-d3js/",
+  "homepage": "https://qdphung19.github.io/data-viz-d3js",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
