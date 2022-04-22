@@ -1,0 +1,854 @@
+[
+  {
+    "country": "Afghanistan",
+    "code": "AF",
+    "frenchCountry": "Afghanistan",
+    "score": 45
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "frenchCountry": "Albanie",
+    "score": 78
+  },
+  {
+    "country": "Armenia",
+    "code": "AM",
+    "frenchCountry": "Arménie",
+    "score": 78
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "frenchCountry": "Argentine",
+    "score": 63
+  },
+  {
+    "country": "Austria",
+    "code": "AT",
+    "frenchCountry": "Autriche",
+    "score": 88
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "frenchCountry": "Australie",
+    "score": 82
+  },
+  {
+    "country": "Azerbaijan",
+    "code": "AZ",
+    "frenchCountry": "Azerbaïdjan",
+    "score": 85
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "code": "BA",
+    "frenchCountry": "Bosnie-Herzégovine",
+    "score": 80
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "frenchCountry": "Bangladesh",
+    "score": 82
+  },
+  {
+    "country": "Belgium",
+    "code": "BE",
+    "frenchCountry": "Belgique",
+    "score": 83
+  },
+  {
+    "country": "Burkina Faso",
+    "code": "BF",
+    "frenchCountry": "Burkina Faso",
+    "score": 73
+  },
+  {
+    "country": "Bulgaria",
+    "code": "BG",
+    "frenchCountry": "Bulgarie",
+    "score": 77
+  },
+  {
+    "country": "Benin",
+    "code": "BJ",
+    "frenchCountry": "Bénin",
+    "score": 71
+  },
+  {
+    "country": "Bolivia (Plurinational State of)",
+    "code": "BO",
+    "frenchCountry": "Bolivie",
+    "score": 61
+  },
+  {
+    "country": "Brazil",
+    "code": "BR",
+    "frenchCountry": "Brésil",
+    "score": 63
+  },
+  {
+    "country": "Botswana",
+    "code": "BW",
+    "frenchCountry": "Botswana",
+    "score": 61
+  },
+  {
+    "country": "Belarus",
+    "code": "BY",
+    "frenchCountry": "Bélarus",
+    "score": 77
+  },
+  {
+    "country": "Canada",
+    "code": "CA",
+    "frenchCountry": "Canada",
+    "score": 90
+  },
+  {
+    "country": "Congo (Democratic Republic of the)",
+    "code": "CD",
+    "frenchCountry": "République Démocratique du Congo",
+    "score": 65
+  },
+  {
+    "country": "Central African Republic",
+    "code": "CF",
+    "frenchCountry": "République Centrafricaine",
+    "score": 68
+  },
+  {
+    "country": "Congo",
+    "code": "CG",
+    "frenchCountry": "République du Congo",
+    "score": 66
+  },
+  {
+    "country": "Switzerland",
+    "code": "CH",
+    "frenchCountry": "Suisse",
+    "score": 90
+  },
+  {
+    "country": "Chile",
+    "code": "CL",
+    "frenchCountry": "Chili",
+    "score": 69
+  },
+  {
+    "country": "Cameroon",
+    "code": "CM",
+    "frenchCountry": "Cameroun",
+    "score": 65
+  },
+  {
+    "country": "China",
+    "code": "CN",
+    "frenchCountry": "Chine",
+    "score": 88
+  },
+  {
+    "country": "Colombia",
+    "code": "CO",
+    "frenchCountry": "Colombie",
+    "score": 64
+  },
+  {
+    "country": "Costa Rica",
+    "code": "CR",
+    "frenchCountry": "Costa Rica",
+    "score": 70
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "code": "CR",
+    "frenchCountry": "Costa Rica",
+    "score": 67
+  },
+  {
+    "country": "Cyprus",
+    "code": "CY",
+    "frenchCountry": "Chypre",
+    "score": 80
+  },
+  {
+    "country": "Czechia",
+    "code": "CZ",
+    "frenchCountry": "République Tchèque",
+    "score": 84
+  },
+  {
+    "country": "Germany",
+    "code": "DE",
+    "frenchCountry": "Allemagne",
+    "score": 85
+  },
+  {
+    "country": "Denmark",
+    "code": "DK",
+    "frenchCountry": "Danemark",
+    "score": 88
+  },
+  {
+    "country": "Dominican Republic",
+    "code": "DO",
+    "frenchCountry": "République Dominicaine",
+    "score": 60
+  },
+  {
+    "country": "Algeria",
+    "code": "DZ",
+    "frenchCountry": "Algérie",
+    "score": 79
+  },
+  {
+    "country": "Ecuador",
+    "code": "EC",
+    "frenchCountry": "Equateur",
+    "score": 71
+  },
+  {
+    "country": "Estonia",
+    "code": "EE",
+    "frenchCountry": "Estonie",
+    "score": 83
+  },
+  {
+    "country": "Egypt",
+    "code": "EG",
+    "frenchCountry": "Egypte",
+    "score": 88
+  },
+  {
+    "country": "Spain",
+    "code": "ES",
+    "frenchCountry": "Espagne",
+    "score": 85
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ET",
+    "frenchCountry": "Ethiopie",
+    "score": 79
+  },
+  {
+    "country": "Finland",
+    "code": "FI",
+    "frenchCountry": "Finlande",
+    "score": 93
+  },
+  {
+    "country": "France",
+    "code": "FR",
+    "frenchCountry": "France",
+    "score": 84
+  },
+  {
+    "country": "Gabon",
+    "code": "GA",
+    "frenchCountry": "Gabon",
+    "score": 55
+  },
+  {
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "code": "GB",
+    "frenchCountry": "Royaume-Uni",
+    "score": 86
+  },
+  {
+    "country": "Georgia",
+    "code": "GE",
+    "frenchCountry": "Géorgie",
+    "score": 87
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "frenchCountry": "Ghana",
+    "score": 66
+  },
+  {
+    "country": "Gambia",
+    "code": "GM",
+    "frenchCountry": "Gambie",
+    "score": 70
+  },
+  {
+    "country": "Guinea",
+    "code": "GN",
+    "frenchCountry": "Guinée",
+    "score": 68
+  },
+  {
+    "country": "Greece",
+    "code": "GR",
+    "frenchCountry": "Grèce",
+    "score": 74
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "frenchCountry": "Guatemala",
+    "score": 71
+  },
+  {
+    "country": "Hong Kong",
+    "code": "HK",
+    "frenchCountry": "Hong-Kong",
+    "score": 91
+  },
+  {
+    "country": "Honduras",
+    "code": "HN",
+    "frenchCountry": "Honduras",
+    "score": 72
+  },
+  {
+    "country": "Croatia",
+    "code": "HR",
+    "frenchCountry": "Croatie",
+    "score": 82
+  },
+  {
+    "country": "Haiti",
+    "code": "HT",
+    "frenchCountry": "Haïti",
+    "score": 68
+  },
+  {
+    "country": "Hungary",
+    "code": "HU",
+    "frenchCountry": "Hongrie",
+    "score": 81
+  },
+  {
+    "country": "Indonesia",
+    "code": "ID",
+    "frenchCountry": "Indonésie",
+    "score": 89
+  },
+  {
+    "country": "Ireland",
+    "code": "IE",
+    "frenchCountry": "Irlande",
+    "score": 86
+  },
+  {
+    "country": "Israel",
+    "code": "IL",
+    "frenchCountry": "Israël",
+    "score": 82
+  },
+  {
+    "country": "India",
+    "code": "IN",
+    "frenchCountry": "Inde",
+    "score": 85
+  },
+  {
+    "country": "Iraq",
+    "code": "IQ",
+    "frenchCountry": "Iraq",
+    "score": 71
+  },
+  {
+    "country": "Iran (Islamic Republic of)",
+    "code": "IR",
+    "frenchCountry": "République Islamique d'Iran",
+    "score": 82
+  },
+  {
+    "country": "Iceland",
+    "code": "IS",
+    "frenchCountry": "Islande",
+    "score": 93
+  },
+  {
+    "country": "Italy",
+    "code": "IT",
+    "frenchCountry": "Italie",
+    "score": 78
+  },
+  {
+    "country": "Jamaica",
+    "code": "JM",
+    "frenchCountry": "Jamaïque",
+    "score": 73
+  },
+  {
+    "country": "Jordan",
+    "code": "JO",
+    "frenchCountry": "Jordanie",
+    "score": 86
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "frenchCountry": "Japon",
+    "score": 85
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "frenchCountry": "Kenya",
+    "score": 70
+  },
+  {
+    "country": "Kyrgyzstan",
+    "code": "KG",
+    "frenchCountry": "Kirghizistan",
+    "score": 73
+  },
+  {
+    "country": "Cambodia",
+    "code": "KH",
+    "frenchCountry": "Cambodge",
+    "score": 80
+  },
+  {
+    "country": "Korea (Democratic People's Republic of)",
+    "code": "KP",
+    "frenchCountry": "République Populaire Démocratique de Corée",
+    "score": 82
+  },
+  {
+    "country": "Kosovo",
+    "code": "KR",
+    "frenchCountry": "République de Corée",
+    "score": 86
+  },
+  {
+    "country": "Kazakhstan",
+    "code": "KZ",
+    "frenchCountry": "Kazakhstan",
+    "score": 79
+  },
+  {
+    "country": "Laos",
+    "code": "LA",
+    "frenchCountry": "République Démocratique Populaire Lao",
+    "score": 83
+  },
+  {
+    "country": "Lebanon",
+    "code": "LB",
+    "frenchCountry": "Liban",
+    "score": 78
+  },
+  {
+    "country": "Sri Lanka",
+    "code": "LK",
+    "frenchCountry": "Sri Lanka",
+    "score": 82
+  },
+  {
+    "country": "Liberia",
+    "code": "LR",
+    "frenchCountry": "Libéria",
+    "score": 56
+  },
+  {
+    "country": "Lesotho",
+    "code": "LS",
+    "frenchCountry": "Lesotho",
+    "score": 71
+  },
+  {
+    "country": "Lithuania",
+    "code": "LT",
+    "frenchCountry": "Lituanie",
+    "score": 79
+  },
+  {
+    "country": "Luxembourg",
+    "code": "LU",
+    "frenchCountry": "Luxembourg",
+    "score": 88
+  },
+  {
+    "country": "Latvia",
+    "code": "LV",
+    "frenchCountry": "Lettonie",
+    "score": 76
+  },
+  {
+    "country": "Libya",
+    "code": "LY",
+    "frenchCountry": "Libye",
+    "score": 67
+  },
+  {
+    "country": "Morocco",
+    "code": "MA",
+    "frenchCountry": "Maroc",
+    "score": 81
+  },
+  {
+    "country": "Moldova (Republic of)",
+    "code": "MD",
+    "frenchCountry": "République de Moldova",
+    "score": 67
+  },
+  {
+    "country": "Montenegro",
+    "code": "ME",
+    "frenchCountry": "République de Moldova",
+    "score": 79
+  },
+  {
+    "country": "Madagascar",
+    "code": "MG",
+    "frenchCountry": "Madagascar",
+    "score": 64
+  },
+  {
+    "country": "Macedonia (the former Yugoslav Republic of)",
+    "code": "MK",
+    "frenchCountry": "L'ex-République Yougoslave de Macédoine",
+    "score": 78
+  },
+  {
+    "country": "Mali",
+    "code": "ML",
+    "frenchCountry": "Mali",
+    "score": 66
+  },
+  {
+    "country": "Myanmar",
+    "code": "MM",
+    "frenchCountry": "Myanmar",
+    "score": 85
+  },
+  {
+    "country": "Mongolia",
+    "code": "MN",
+    "frenchCountry": "Mongolie",
+    "score": 70
+  },
+  {
+    "country": "Mauritania",
+    "code": "MR",
+    "frenchCountry": "Mauritanie",
+    "score": 63
+  },
+  {
+    "country": "Malta",
+    "code": "MT",
+    "frenchCountry": "Malte",
+    "score": 86
+  },
+  {
+    "country": "Mauritius",
+    "code": "MU",
+    "frenchCountry": "Maurice",
+    "score": 82
+  },
+  {
+    "country": "Malawi",
+    "code": "MW",
+    "frenchCountry": "Malawi",
+    "score": 64
+  },
+  {
+    "country": "Mexico",
+    "code": "MX",
+    "frenchCountry": "Mexique",
+    "score": 58
+  },
+  {
+    "country": "Mozambique",
+    "code": "MZ",
+    "frenchCountry": "Mozambique",
+    "score": 71
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "frenchCountry": "Namibie",
+    "score": 65
+  },
+  {
+    "country": "Niger",
+    "code": "NE",
+    "frenchCountry": "Niger",
+    "score": 74
+  },
+  {
+    "country": "Nigeria",
+    "code": "NG",
+    "frenchCountry": "Nigéria",
+    "score": 66
+  },
+  {
+    "country": "Nicaragua",
+    "code": "NI",
+    "frenchCountry": "Nicaragua",
+    "score": 73
+  },
+  {
+    "country": "Netherlands",
+    "code": "NL",
+    "frenchCountry": "Pays-Bas",
+    "score": 88
+  },
+  {
+    "country": "Norway",
+    "code": "NO",
+    "frenchCountry": "Norvège",
+    "score": 93
+  },
+  {
+    "country": "Nepal",
+    "code": "NP",
+    "frenchCountry": "Népal",
+    "score": 78
+  },
+  {
+    "country": "New Zealand",
+    "code": "NZ",
+    "frenchCountry": "Nouvelle-Zélande",
+    "score": 83
+  },
+  {
+    "country": "Panama",
+    "code": "PA",
+    "frenchCountry": "Panama",
+    "score": 72
+  },
+  {
+    "country": "Peru",
+    "code": "PE",
+    "frenchCountry": "Pérou",
+    "score": 63
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "frenchCountry": "Philippines",
+    "score": 82
+  },
+  {
+    "country": "Pakistan",
+    "code": "PK",
+    "frenchCountry": "Pakistan",
+    "score": 74
+  },
+  {
+    "country": "Poland",
+    "code": "PL",
+    "frenchCountry": "Pologne",
+    "score": 82
+  },
+  {
+    "country": "Palestine (State of)",
+    "code": "PS",
+    "frenchCountry": "Territoire Palestinien Occupé",
+    "score": 72
+  },
+  {
+    "country": "Portugal",
+    "code": "PT",
+    "frenchCountry": "Portugal",
+    "score": 87
+  },
+  {
+    "country": "Paraguay",
+    "code": "PY",
+    "frenchCountry": "Paraguay",
+    "score": 70
+  },
+  {
+    "country": "Romania",
+    "code": "RO",
+    "frenchCountry": "Roumanie",
+    "score": 82
+  },
+  {
+    "country": "Serbia",
+    "code": "RS",
+    "frenchCountry": "Roumanie",
+    "score": 82
+  },
+  {
+    "country": "Russian Federation",
+    "code": "RU",
+    "frenchCountry": "Fédération de Russie",
+    "score": 70
+  },
+  {
+    "country": "Rwanda",
+    "code": "RW",
+    "frenchCountry": "Rwanda",
+    "score": 83
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "frenchCountry": "Suède",
+    "score": 84
+  },
+  {
+    "country": "Singapore",
+    "code": "SG",
+    "frenchCountry": "Singapour",
+    "score": 97
+  },
+  {
+    "country": "Slovenia",
+    "code": "SI",
+    "frenchCountry": "Slovénie",
+    "score": 88
+  },
+  {
+    "country": "Slovakia",
+    "code": "SK",
+    "frenchCountry": "Slovaquie",
+    "score": 83
+  },
+  {
+    "country": "Sierra Leone",
+    "code": "SL",
+    "frenchCountry": "Sierra Leone",
+    "score": 61
+  },
+  {
+    "country": "Senegal",
+    "code": "SN",
+    "frenchCountry": "Sénégal",
+    "score": 69
+  },
+  {
+    "country": "South Sudan",
+    "code": "SS",
+    "frenchCountry": "Suriname",
+    "score": 54
+  },
+  {
+    "country": "El Salvador",
+    "code": "SV",
+    "frenchCountry": "El Salvador",
+    "score": 67
+  },
+  {
+    "country": "Chad",
+    "code": "TD",
+    "frenchCountry": "Tchad",
+    "score": 64
+  },
+  {
+    "country": "Togo",
+    "code": "TG",
+    "frenchCountry": "Togo",
+    "score": 69
+  },
+  {
+    "country": "Thailand",
+    "code": "TH",
+    "frenchCountry": "Thaïlande",
+    "score": 80
+  },
+  {
+    "country": "Tajikistan",
+    "code": "TJ",
+    "frenchCountry": "Tadjikistan",
+    "score": 85
+  },
+  {
+    "country": "Turkmenistan",
+    "code": "TM",
+    "frenchCountry": "Turkménistan",
+    "score": 87
+  },
+  {
+    "country": "Tunisia",
+    "code": "TN",
+    "frenchCountry": "Tunisie",
+    "score": 75
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "frenchCountry": "Turquie",
+    "score": 77
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "code": "TT",
+    "frenchCountry": "Trinité-et-Tobago",
+    "score": 68
+  },
+  {
+    "country": "Taiwan (Province of China[a])",
+    "code": "TW",
+    "frenchCountry": "Taïwan",
+    "score": 84
+  },
+  {
+    "country": "Tanzania (United Republic of)",
+    "code": "TZ",
+    "frenchCountry": "République-Unie de Tanzanie",
+    "score": 77
+  },
+  {
+    "country": "Ukraine",
+    "code": "UA",
+    "frenchCountry": "Ukraine",
+    "score": 69
+  },
+  {
+    "country": "Uganda",
+    "code": "UG",
+    "frenchCountry": "Ouganda",
+    "score": 62
+  },
+  {
+    "country": "United States of America",
+    "code": "US",
+    "frenchCountry": "Etats-Unis",
+    "score": 84
+  },
+  {
+    "country": "Uruguay",
+    "code": "UY",
+    "frenchCountry": "Uruguay",
+    "score": 71
+  },
+  {
+    "country": "Uzbekistan",
+    "code": "UZ",
+    "frenchCountry": "Ouzbékistan",
+    "score": 91
+  },
+  {
+    "country": "Venezuela",
+    "code": "VE",
+    "frenchCountry": "Venezuela",
+    "score": 44
+  },
+  {
+    "country": "Yemen",
+    "code": "YE",
+    "frenchCountry": "Yémen",
+    "score": 71
+  },
+  {
+    "country": "South Africa",
+    "code": "ZA",
+    "frenchCountry": "Afrique du Sud",
+    "score": 58
+  },
+  {
+    "country": "Zambia",
+    "code": "ZM",
+    "frenchCountry": "Zambie",
+    "score": 62
+  },
+  {
+    "country": "Zimbabwe",
+    "code": "ZW",
+    "frenchCountry": "Zimbabwe",
+    "score": 73
+  }
+]
