@@ -1,0 +1,107 @@
+[
+  {
+    "country": "Australia",
+    "information": 2,
+    "name": "Terence Tao, Akshay Venkatesh"
+  },
+  {
+    "country": "Austria",
+    "information": 1,
+    "name": "Martin Hairer"
+  },
+  {
+    "country": "Belgium",
+    "information": 2,
+    "name": "Pierre Deligne, Jean Bourgain"
+  },
+  {
+    "country": "Brazil",
+    "information": 1,
+    "name": "Artur Avila"
+  },
+  {
+    "country": "Canada",
+    "information": 1,
+    "name": "Manjul Bhargava"
+  },
+  {
+    "country": "Finland",
+    "information": 1,
+    "name": "Lars Ahlfors"
+  },
+  {
+    "country": "France",
+    "information": 12,
+    "name": "Laurent Lafforgue, Cédric Villani, Alain Connes, Pierre-Louis Lions, Jean-Christophe Yoccoz, Laurent Schwartz, Jean-Pierre Serre, René Thom, Ngo Bao Chau, Artur Avila, Wendelin Werner, Alexander Grothendieck"
+  },
+  {
+    "country": "Germany",
+    "information": 2,
+    "name": "Gerd Faltings, Peter Scholze"
+  },
+  {
+    "country": "Iran",
+    "information": 2,
+    "name": "Maryam Mirzakhani, Caucher Birkar"
+  },
+  {
+    "country": "Israel",
+    "information": 1,
+    "name": "Elon Lindenstrauss"
+  },
+  {
+    "country": "Italy",
+    "information": 2,
+    "name": "Enrico Bombieri, Alessio Figalli"
+  },
+  {
+    "country": "Japan",
+    "information": 3,
+    "name": "Heisuke Hironaka, Shigefumi Mori, Kunihiko Kodaira"
+  },
+  {
+    "country": "New Zealand",
+    "information": 1,
+    "name": "Vaughan Jones"
+  },
+  {
+    "country": "Norway",
+    "information": 1,
+    "name": "Atle Selberg"
+  },
+  {
+    "country": "Russia",
+    "information": 8,
+    "name": "Maxim Kontsevich, Vladimir Voevodsky, Andrei Okounkov, Grigori Perelman (refused), Stanislav Smirnov, Sergei Novikov, Grigory Margulis, Efim Zelmanov"
+  },
+  {
+    "country": "Sweden",
+    "information": 1,
+    "name": "Lars Hörmander"
+  },
+  {
+    "country": "Switzerland",
+    "information": 1,
+    "name": "Martin Hairer"
+  },
+  {
+    "country": "Ukraine",
+    "information": 1,
+    "name": "Vladimir Drinfeld"
+  },
+  {
+    "country": "United Kingdom",
+    "information": 5,
+    "name": "Richard Borcherds, Timothy Gowers, Alan Baker, Simon Donaldson, Michael Francis Atiyah"
+  },
+  {
+    "country": "United States",
+    "information": 13,
+    "name": "Curtis T. McMullen, John G. Thompson, David Mumford, Charles Fefferman, Daniel Quillen, William Thurston, Michael Freedman, Edward Witten, Jesse Douglas, Paul Cohen, Stephen Smale, John Milnor, Manjul Bhargava"
+  },
+  {
+    "country": "Vietnam",
+    "information": 1,
+    "name": "Ngô Bảo Châu"
+  }
+]

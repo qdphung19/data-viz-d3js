@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "title": "Sentiment de sécurité des habitants de chaque pays en 2018",
+        "source": "The Gallup Organization",
+        "link": "https://insightcrime.org/wp-content/uploads/2018/06/Gallup_Global_Law_And_Order_Report_2018.pdf",
+        "typeChart": "geo",
+        "componentName": "SentimentDeSecurite",
+        "path": "/geo/SentimentDeSecurite",
+        "pathData": "/data/dataGeo/SentimentDeSecurite.json",
+        "pathGeojson": "/data/geojson/world.json"
+    },
+    {
+        "id": 1,
+        "title": "Prix Nobel par pays (2021)",
+        "source": "wikipedia",
+        "link": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_country",
+        "typeChart": "geo",
+        "componentName": "Nobel2021",
+        "path": "/geo/Nobel2021",
+        "pathData": "/data/dataGeo/Nobel2021.json",
+        "pathGeojson": "/data/geojson/world.json"
+    },
+    {
+        "id": 2,
+        "title": "Médaille Fields par pays (2018)",
+        "source": "wikipedia",
+        "link": "https://fr.wikipedia.org/wiki/M%C3%A9daille_Fields",
+        "typeChart": "geo",
+        "componentName": "Fields2018",
+        "path": "/geo/Fields2018",
+        "pathData": "/data/dataGeo/Fields2018.json",
+        "pathGeojson": "/data/geojson/world.json"
+    },
+    {
+        "id": 3,
+        "title": "Ventes de voitures en 2020 par rapport à 2019",
+        "source": "OICA",
+        "link": "https://www.oica.net/category/sales-statistics/",
+        "typeChart": "geo",
+        "componentName": "PassengerCarsSales",
+        "path": "/geo/PassengerCarsSales",
+        "pathData": "/data/dataGeo/PassengerCarsSales.json",
+        "pathGeojson": "/data/geojson/world.json"
+    }
+]

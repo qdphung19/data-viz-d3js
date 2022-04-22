@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "title": "Population en France 2020",
+        "source": "INSEE",
+        "link": "",
+        "typeChart": "geoFrance",
+        "componentName": "Population",
+        "path": "/geoFrance/Population",
+        "pathData": "/data/dataFrance/Population.csv",
+        "pathGeojson": "/data/geojson/departement.json"
+    },
+    {
+        "id": 1,
+        "title": "Les équipes de Football en France (saison 2021-2022)",
+        "source": "Wikipedia",
+        "link": "",
+        "typeChart": "geoFrance",
+        "componentName": "FootballClub",
+        "path": "/geoFrance/FootballClub",
+        "pathData": "/data/dataFrance/FootballClub.json",
+        "pathGeojson": "/data/geojson/departement.json"
+    }
+]
