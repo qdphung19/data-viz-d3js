@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "title": "Sentiment de sécurité des habitants de chaque pays en 2018",
+        "title": "Sentiment de sécurité des habitants de chaque pays en 2018 Test",
         "source": "The Gallup Organization",
         "link": "https://insightcrime.org/wp-content/uploads/2018/06/Gallup_Global_Law_And_Order_Report_2018.pdf",
         "typeChart": "geo",

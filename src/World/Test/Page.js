@@ -5,6 +5,8 @@ import * as d3 from 'd3';
 import database from '../WorldDatabase.json';
 
 const dataSelected = database[0];
+console.log(dataSelected.pathGeojson);
+console.log(dataSelected.pathData);
 
 function Page() {
     const [map, setMap] = useState([]);
@@ -46,15 +48,7 @@ function Page() {
     return (
         <div className="App">
             {loading && <div>loading</div>}
-            {!loading && (
-                <Test
-                    data={data}
-                    map={map}
-                    title={dataSelected.title}
-                    source={dataSelected.source}
-                    link={dataSelected.link}
-                />
-            )}
+            {!loading && <Test data={data} map={map} title={'Test'} source={'Test'} link={'Test'} />}
             {/* <Test data={data} map={map} title="Test" source="Test" link="Test" /> */}
         </div>
     );

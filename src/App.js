@@ -5,7 +5,7 @@ import MyContainer from './layout/MyContainer';
 import MyAbout from './layout/MyAbout';
 import { Grid } from '@mui/material';
 // World
-import SentimentDeSecurite from './World/SentimentDeSecurite/Page';
+// import SentimentDeSecurite from './World/SentimentDeSecurite/Page';
 import SentimentDeSecuriteTest from './World/Test/Page';
 import Nobel2021 from './World/Nobel2021/Page';
 import Fields2018 from './World/Fields2018/Page';
@@ -26,7 +26,7 @@ function App() {
 
                 <Grid item xs={12} sm={10} md={10} lg={10} xl={10}>
                     <SentimentDeSecuriteTest />
-                    <Routes>
+                    {/* <Routes>
                         <Route path="/" element={<MyContainer />} />
                         <Route path="/about" element={<MyAbout />} />
                         <Route path="/geo/SentimentDeSecurite" element={<SentimentDeSecuriteTest />} />
@@ -35,7 +35,7 @@ function App() {
                         <Route path="/geo/PassengerCarsSales" element={<PassengerCarsSales />} />
                         <Route path="/geoFrance/Population" element={<Population />} />
                         <Route path="/geoFrance/FootballClub" element={<FootballClub />} />
-                    </Routes>
+                    </Routes> */}
                 </Grid>
                 <Grid item xs={false} sm={1} md={1} lg={1} xl={1} />
 
