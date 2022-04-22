@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Test from './Test';
+import Test from './Test.js';
 import * as d3 from 'd3';
 // database
 import database from '../WorldDatabase.json';
@@ -13,16 +13,8 @@ function Page() {
 
     useEffect(() => {
         var promises = [];
-        promises.push(
-            fetch(
-                'https://gist.githubusercontent.com/qdphung19/00899a8fa4ec2e3135e5bb67bb6162c8/raw/ccef5b2f8584d36f5fc92e0e375b57e29ca22119/world.json',
-            ),
-        );
-        promises.push(
-            fetch(
-                'https://gist.githubusercontent.com/qdphung19/b073c23ff95fc76741ce1841676aa8b3/raw/a43f54805833acfa0fb16d18891024e9c9fcef89/SentimentDeSecurite.json',
-            ),
-        );
+        promises.push(fetch(dataSelected.pathGeojson));
+        promises.push(fetch(dataSelected.pathData));
 
         Promise.all(promises)
             .then(async ([mapjson, datajson]) => {
