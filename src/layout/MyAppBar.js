@@ -81,7 +81,7 @@ const MyAppBar = () => {
                             <a href="https://qdphung19.github.io/portfolio/" target="_blank" rel="noreferrer">
                                 <Tooltip title="Quoc Duong PHUNG">
                                     <IconButton>
-                                        <Avatar alt="Quoc Duong PHUNG" src="/logo512.png" />
+                                        <Avatar alt="Quoc Duong PHUNG" src={process.env.PUBLIC_URL + '/logo512.png'} />
                                     </IconButton>
                                 </Tooltip>
                             </a>

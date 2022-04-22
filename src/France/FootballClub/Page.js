@@ -14,8 +14,8 @@ function Page() {
 
     useEffect(() => {
         var promises = [];
-        promises.push(d3.json(dataSelected.pathGeojson));
-        promises.push(d3.json(dataSelected.pathData));
+        promises.push(d3.json(process.env.PUBLIC_URL + dataSelected.pathGeojson));
+        promises.push(d3.json(process.env.PUBLIC_URL + dataSelected.pathData));
         // promises.push(d3.csv(dataSelected.pathData));
 
         Promise.all(promises).then((d) => {
