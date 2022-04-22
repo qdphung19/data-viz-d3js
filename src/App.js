@@ -19,13 +19,13 @@ function App() {
         <Grid container direction="column" sx={{ backgroundColor: '#3a3845' }}>
             {/* <div className="App"> */}
             <Grid item>
-                <MyAppBar />
+                {/* <MyAppBar /> */}
+                <SentimentDeSecuriteTest />
             </Grid>
             <Grid item container>
                 <Grid item xs={false} sm={1} md={1} lg={1} xl={1} />
 
                 <Grid item xs={12} sm={10} md={10} lg={10} xl={10}>
-                    <SentimentDeSecuriteTest />
                     {/* <Routes>
                         <Route path="/" element={<MyContainer />} />
                         <Route path="/about" element={<MyAbout />} />
