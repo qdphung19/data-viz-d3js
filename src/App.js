@@ -24,6 +24,7 @@ function App() {
                 <Grid item xs={false} sm={1} md={1} lg={1} xl={1} />
 
                 <Grid item xs={12} sm={10} md={10} lg={10} xl={10}>
+                    <SentimentDeSecurite />
                     <Routes>
                         <Route path="/" element={<MyContainer />} />
                         <Route path="/about" element={<MyAbout />} />

@@ -1,0 +1,765 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "league": "Ligue1",
+        "championnatdefrance": 9,
+        "coupdefrance": 14,
+        "name": "Paris Saint-Germain",
+        "ground": "Parc des Princes",
+        "capacity": 47929
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.253056,
+          48.841389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "league": "Ligue1",
+        "championnatdefrance": 7,
+        "coupdefrance": 5,
+        "name": "Olympique Lyonnais",
+        "ground": "Groupama Stadium",
+        "capacity": 59186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.981944,
+          45.765278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "league": "Ligue1",
+        "championnatdefrance": 9,
+        "coupdefrance": 10,
+        "name": "Olympique de Marseille",
+        "ground": "Orange Vélodrome",
+        "capacity": 67394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.395833,
+          43.269722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "league": "Ligue1",
+        "championnatdefrance": 8,
+        "coupdefrance": 5,
+        "name": "AS Monaco",
+        "ground": "Stade Louis-II",
+        "capacity": 18523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.415556,
+          43.7275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "league": "Ligue1",
+        "championnatdefrance": 4,
+        "coupdefrance": 6,
+        "name": "LOSC Lille",
+        "ground": "Stade Pierre-Mauroy",
+        "capacity": 50157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.130556,
+          50.611944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "league": "Ligue1",
+        "championnatdefrance": 4,
+        "coupdefrance": 3,
+        "name": "OGC Nice",
+        "ground": "Allianz Riviera",
+        "capacity": 35624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1925,
+          43.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "league": "Ligue1",
+        "championnatdefrance": 0,
+        "coupdefrance": 3,
+        "name": "Stade Rennais FC",
+        "ground": "Roazhon Park",
+        "capacity": 29194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.712778,
+          48.1075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "league": "Ligue1",
+        "championnatdefrance": 1,
+        "coupdefrance": 0,
+        "name": "Racing Club de Lens",
+        "ground": "Stade Bollaert-Delelis",
+        "capacity": 38223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.815,
+          50.432778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "league": "Ligue1",
+        "championnatdefrance": 1,
+        "coupdefrance": 2,
+        "name": "Montpellier Hérault SC",
+        "ground": "Stade de la Mosson",
+        "capacity": 32900
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.812222,
+          43.621944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "league": "Ligue1",
+        "championnatdefrance": 1,
+        "coupdefrance": 3,
+        "name": "RC Strasbourg Alsace",
+        "ground": "Stade de la Meinau",
+        "capacity": 26109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755,
+          48.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "league": "Ligue1",
+        "championnatdefrance": 10,
+        "coupdefrance": 6,
+        "name": "AS Saint-Étienne",
+        "ground": "Stade Geoffroy-Guichard",
+        "capacity": 42000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.390278,
+          45.460833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "league": "Ligue1",
+        "championnatdefrance": 6,
+        "coupdefrance": 4,
+        "name": "FC Girondins de Bordeaux",
+        "ground": "Matmut Atlantique",
+        "capacity": 42115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.561389,
+          44.897222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "league": "Ligue1",
+        "championnatdefrance": 8,
+        "coupdefrance": 3,
+        "name": "FC Nantes",
+        "ground": "Stade de la Beaujoire - Louis Fonteneau",
+        "capacity": 35322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.525278,
+          47.255556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "league": "Ligue1",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Stade Brestois 29",
+        "ground": "Stade Francis-Le Blé",
+        "capacity": 15097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.461667,
+          48.403056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "league": "Ligue1",
+        "championnatdefrance": 6,
+        "coupdefrance": 2,
+        "name": "Stade de Reims",
+        "ground": "Stade Auguste-Delaune",
+        "capacity": 20519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.025,
+          49.246667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "league": "Ligue1",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Angers SCO",
+        "ground": "Stade Raymond-Kopa",
+        "capacity": 19350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.530833,
+          47.460556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "league": "Ligue1",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "ESTAC Troyes",
+        "ground": "Stade de l'Aube",
+        "capacity": 21000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.098611,
+          48.3075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "league": "Ligue1",
+        "championnatdefrance": 0,
+        "coupdefrance": 2,
+        "name": "FC Metz",
+        "ground": "Stade Saint-Symphorien",
+        "capacity": 28000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.159167,
+          49.109722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "league": "Ligue1",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Clermont Foot 63",
+        "ground": "Stade Gabriel-Montpied",
+        "capacity": 12768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.121667,
+          45.815833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "league": "Ligue1",
+        "championnatdefrance": 0,
+        "coupdefrance": 1,
+        "name": "FC Lorient",
+        "ground": "Stade du Moustoir",
+        "capacity": 18500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.369167,
+          47.748889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "league": "Ligue2",
+        "championnatdefrance": 1,
+        "coupdefrance": 4,
+        "name": "AJ Auxerre",
+        "ground": "Stade de l'Abbé-Deschamps",
+        "capacity": 18541
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.588611,
+          47.786667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Nîmes Olympique",
+        "ground": "Stade des Costières",
+        "capacity": 15788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.359167,
+          43.816111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 1,
+        "name": "Toulouse Football Club",
+        "ground": "Stadium de Toulouse",
+        "capacity": 33150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.434167,
+          43.583333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Amiens SC",
+        "ground": "Stade de la Licorne",
+        "capacity": 12097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263611,
+          49.89388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Paris FC",
+        "ground": "Stade Charléty",
+        "capacity": 19151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346389,
+          48.818611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Stade Malherbe Caen",
+        "ground": "Stade Michel-d'Ornano",
+        "capacity": 20300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.396667,
+          49.179444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Dijon FCO",
+        "ground": "Stade Gaston-Gérard",
+        "capacity": 18376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.068333,
+          47.324444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "AC Ajaccio",
+        "ground": "Stade François-Coty",
+        "capacity": 10660
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776389,
+          41.930833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Valenciennes FC",
+        "ground": "Stade du Hainaut",
+        "capacity": 25172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.532222,
+          50.348611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 1,
+        "name": "Le Havre AC",
+        "ground": "Stade Océane",
+        "capacity": 25178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.169722,
+          49.498889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Grenoble Foot 38",
+        "ground": "Stade des Alpes",
+        "capacity": 20068
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.740000,
+          45.187500
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 1,
+        "name": "AS Nancy Lorraine",
+        "ground": "Stade Marcel-Picot",
+        "capacity": 20087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.210556,
+          48.695278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 2,
+        "name": "En Avant de Guingamp",
+        "ground": "Stade de Roudourou",
+        "capacity": 19060
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.164444,
+          48.566111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "league": "Ligue2",
+        "championnatdefrance": 2,
+        "coupdefrance": 2,
+        "name": "FC Sochaux-Montbéliard",
+        "ground": "Stade Auguste-Bonal",
+        "capacity": 20005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.811389,
+          47.512222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Chamois Niortais Football Club",
+        "ground": "Stade René-Gaillard",
+        "capacity": 6398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.489167,
+          46.316944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Rodez Aveyron Football",
+        "ground": "Stade Paul-Lignon",
+        "capacity": 4755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.563611,
+          44.351667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 1,
+        "name": "SC Bastia",
+        "ground": "Stade Armand-Cesari",
+        "capacity": 16048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.442778,
+          42.651389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "USL Dunkerque",
+        "ground": "Stade Marcel-Tribut",
+        "capacity": 4933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.390278,
+          51.035556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "Pau FC",
+        "ground": "Nouste Camp",
+        "capacity": 4031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.325556,
+          43.308056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "league": "Ligue2",
+        "championnatdefrance": 0,
+        "coupdefrance": 0,
+        "name": "US Quevilly Rouen Métropole",
+        "ground": "Stade Robert-Diochon",
+        "capacity": 12018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.070833,
+          49.411111
+        ]
+      }
+    }
+  ]
+}
