@@ -18,7 +18,7 @@
         "typeChart": "geoFrance",
         "componentName": "FootballClub",
         "path": "/geoFrance/FootballClub",
-        "pathData": "/data/dataFrance/FootballClub.json",
-        "pathGeojson": "/data/geojson/departement.json"
+        "pathData": "%PUBLIC_URL%/data/dataFrance/FootballClub.json",
+        "pathGeojson": "%PUBLIC_URL%/data/geojson/departement.json"
     }
 ]

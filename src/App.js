@@ -25,8 +25,8 @@ function App() {
 
                 <Grid item xs={12} sm={10} md={10} lg={10} xl={10}>
                     <Routes>
-                        <Route path="/data-viz-d3js" element={<MyContainer />} />
-                        <Route path="/data-viz-d3js/about" element={<MyAbout />} />
+                        <Route path="/" element={<MyContainer />} />
+                        <Route path="/about" element={<MyAbout />} />
                         <Route path="/geo/SentimentDeSecurite" element={<SentimentDeSecurite />} />
                         <Route path="/geo/Nobel2021" element={<Nobel2021 />} />
                         <Route path="/geo/Fields2018" element={<Fields2018 />} />
