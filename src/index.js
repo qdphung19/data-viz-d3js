@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
     <React.StrictMode>
-        <BrowserRouter>
+        <BrowserRouter basename="/data-viz-d3js">
             <App />
         </BrowserRouter>
     </React.StrictMode>,
