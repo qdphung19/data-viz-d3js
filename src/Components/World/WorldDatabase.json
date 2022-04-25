@@ -18,8 +18,8 @@
         "typeChart": "geo",
         "componentName": "Nobel2021",
         "path": "/geo/Nobel2021",
-        "pathData": "/data/dataGeo/Nobel2021.json",
-        "pathGeojson": "/data/geojson/world.json"
+        "pathData": "https://gist.githubusercontent.com/qdphung19/b073c23ff95fc76741ce1841676aa8b3/raw/3d0b39a9f72efe4f326ba849415326910b9d67e8/Nobel2021.json",
+        "pathGeojson": "https://gist.githubusercontent.com/qdphung19/00899a8fa4ec2e3135e5bb67bb6162c8/raw/ccef5b2f8584d36f5fc92e0e375b57e29ca22119/world.json"
     },
     {
         "id": 2,
@@ -29,8 +29,8 @@
         "typeChart": "geo",
         "componentName": "Fields2018",
         "path": "/geo/Fields2018",
-        "pathData": "/data/dataGeo/Fields2018.json",
-        "pathGeojson": "/data/geojson/world.json"
+        "pathData": "https://gist.githubusercontent.com/qdphung19/b073c23ff95fc76741ce1841676aa8b3/raw/3d0b39a9f72efe4f326ba849415326910b9d67e8/Fields2018.json",
+        "pathGeojson": "https://gist.githubusercontent.com/qdphung19/00899a8fa4ec2e3135e5bb67bb6162c8/raw/ccef5b2f8584d36f5fc92e0e375b57e29ca22119/world.json"
     },
     {
         "id": 3,
@@ -40,7 +40,7 @@
         "typeChart": "geo",
         "componentName": "PassengerCarsSales",
         "path": "/geo/PassengerCarsSales",
-        "pathData": "/data/dataGeo/PassengerCarsSales.json",
-        "pathGeojson": "/data/geojson/world.json"
+        "pathData": "https://gist.githubusercontent.com/qdphung19/b073c23ff95fc76741ce1841676aa8b3/raw/3d0b39a9f72efe4f326ba849415326910b9d67e8/PassengerCarsSales.json",
+        "pathGeojson": "https://gist.githubusercontent.com/qdphung19/00899a8fa4ec2e3135e5bb67bb6162c8/raw/ccef5b2f8584d36f5fc92e0e375b57e29ca22119/world.json"
     }
 ]

@@ -7,8 +7,8 @@
         "typeChart": "geoFrance",
         "componentName": "Population",
         "path": "/geoFrance/Population",
-        "pathData": "/data/dataFrance/Population.csv",
-        "pathGeojson": "/data/geojson/departement.json"
+        "pathData": "https://gist.githubusercontent.com/qdphung19/0f60c7e37fcd1d091a20950cfc1f6379/raw/d4b260a420c2e8e053806d8c51bf35de516e5502/Population.csv",
+        "pathGeojson": "https://gist.githubusercontent.com/qdphung19/00899a8fa4ec2e3135e5bb67bb6162c8/raw/ccef5b2f8584d36f5fc92e0e375b57e29ca22119/departement.json"
     },
     {
         "id": 1,
@@ -18,7 +18,7 @@
         "typeChart": "geoFrance",
         "componentName": "FootballClub",
         "path": "/geoFrance/FootballClub",
-        "pathData": "%PUBLIC_URL%/data/dataFrance/FootballClub.json",
-        "pathGeojson": "%PUBLIC_URL%/data/geojson/departement.json"
+        "pathData": "https://gist.githubusercontent.com/qdphung19/0f60c7e37fcd1d091a20950cfc1f6379/raw/d4b260a420c2e8e053806d8c51bf35de516e5502/FootballClub.json",
+        "pathGeojson": "https://gist.githubusercontent.com/qdphung19/00899a8fa4ec2e3135e5bb67bb6162c8/raw/ccef5b2f8584d36f5fc92e0e375b57e29ca22119/departement.json"
     }
 ]

@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from 'react';
-import Test from './Test';
-import * as d3 from 'd3';
+import Test from './Test.js';
 // database
 import database from '../WorldDatabase.json';
 
 const dataSelected = database[1];
+console.log(dataSelected.pathGeojson);
+console.log(dataSelected.pathData);
 
 function Page() {
     const [map, setMap] = useState([]);
@@ -13,19 +14,26 @@ function Page() {
 
     useEffect(() => {
         var promises = [];
-        promises.push(d3.json(process.env.PUBLIC_URL + dataSelected.pathGeojson));
-        promises.push(d3.json(process.env.PUBLIC_URL + dataSelected.pathData));
+        promises.push(fetch(dataSelected.pathGeojson));
+        promises.push(fetch(dataSelected.pathData));
 
-        Promise.all(promises).then((d) => {
-            setMap(d[0]);
-            setData(d[1]);
-            setLoading(false);
-        });
+        Promise.all(promises)
+            .then(async ([mapjson, datajson]) => {
+                const a = await mapjson.json();
+                const b = await datajson.json();
+                setMap(a);
+                setData(b);
+                setLoading(false);
+            })
+            .catch((err) => {
+                console.log(err);
+            });
+
         return () => undefined;
     }, []);
 
-    // console.log(map);
-    // console.log(data);
+    console.log(map);
+    console.log(data);
     return (
         <div className="App">
             {loading && <div>loading</div>}

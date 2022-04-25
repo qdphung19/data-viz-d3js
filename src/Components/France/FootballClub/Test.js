@@ -1,7 +1,7 @@
 import React from 'react';
 import * as d3 from 'd3';
-import { useD3 } from '../../hooks/useD3';
-import wrap from '../../functions/wrap';
+import { useD3 } from '../../../hooks/useD3';
+import wrap from '../../../functions/wrap';
 import {
     Box,
     Checkbox,
