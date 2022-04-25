@@ -6,13 +6,13 @@ import MyAbout from './layout/MyAbout';
 import { Grid } from '@mui/material';
 // World
 // import SentimentDeSecurite from './World/SentimentDeSecurite/Page';
-import SentimentDeSecuriteTest from './World/Test/Page';
-import Nobel2021 from './World/Nobel2021/Page';
-import Fields2018 from './World/Fields2018/Page';
-import PassengerCarsSales from './World/PassengerCarsSales/Page';
+import SentimentDeSecuriteTest from '../src/Components/World/Test/Page';
+// import Nobel2021 from './World/Nobel2021/Page';
+// import Fields2018 from './World/Fields2018/Page';
+// import PassengerCarsSales from './World/PassengerCarsSales/Page';
 // France
-import Population from './France/Population/Page';
-import FootballClub from './France/FootballClub/Page';
+// import Population from './France/Population/Page';
+// import FootballClub from './France/FootballClub/Page';
 
 function App() {
     return (

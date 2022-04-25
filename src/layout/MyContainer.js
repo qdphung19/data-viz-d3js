@@ -4,8 +4,8 @@ import CssBaseline from '@mui/material/CssBaseline';
 import Box from '@mui/material/Box';
 import { List, ListItem } from '@mui/material';
 import TerrainIcon from '@mui/icons-material/Terrain';
-import WorldDatabase from '../World/WorldDatabase.json';
-import FranceDatabase from '../France/FranceDatabase.json';
+import WorldDatabase from '../Components/World/WorldDatabase.json';
+import FranceDatabase from '../Components/France/FranceDatabase.json';
 
 export default function MyContainer() {
     return (
